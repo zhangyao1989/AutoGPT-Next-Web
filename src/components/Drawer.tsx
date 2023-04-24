@@ -155,18 +155,6 @@ const Drawer = ({
             onClick={showQQ}
           />
           <DrawerItem
-            icon={<FaGlobe />}
-            text="knowlege-planet"
-            target="_blank"
-            onClick={showKnowledgePlanet}
-          />
-          <DrawerItem
-            icon={<FaDiscord />}
-            text="Discord"
-            href="https://ztpai.com/wp-content/uploads/dw-uploads/xcxewm.jpg"
-            target="_blank"
-          />
-          <DrawerItem
             icon={<FaGithub />}
             text="官网"
             href="https://ztpai.com"
