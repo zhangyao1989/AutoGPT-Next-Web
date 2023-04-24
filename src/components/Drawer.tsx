@@ -163,13 +163,13 @@ const Drawer = ({
           <DrawerItem
             icon={<FaDiscord />}
             text="Discord"
-            href="https://discord.gg/Xnsbhg6Uvd"
+            href="https://ztpai.com/wp-content/uploads/dw-uploads/xcxewm.jpg"
             target="_blank"
           />
           <DrawerItem
             icon={<FaGithub />}
             text="GitHub"
-            href="https://github.com/Dogtiti/AutoGPT-Next-Web"
+            href="https://ztpai.com"
             target="_blank"
           />
           <DrawerItem
