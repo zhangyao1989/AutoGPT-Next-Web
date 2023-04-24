@@ -200,7 +200,7 @@ const Home: NextPage = () => {
                   GPT.
                 </span>
                 <span className="text-4xl font-bold text-white xs:text-5xl sm:text-6xl">
-                  NextWeb
+                  网页版
                 </span>
               </div>
               <div className="mt-1 text-center font-mono text-[0.7em] font-bold text-white">
