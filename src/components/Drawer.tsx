@@ -168,7 +168,7 @@ const Drawer = ({
           />
           <DrawerItem
             icon={<FaGithub />}
-            text="GitHub"
+            text="官网"
             href="https://ztpai.com"
             target="_blank"
           />
